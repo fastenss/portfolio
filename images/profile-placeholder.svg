@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" fill="none">
+  <circle cx="150" cy="150" r="150" fill="#f3f4f6"/>
+  <circle cx="150" cy="110" r="50" fill="#d63384" fill-opacity="0.15"/>
+  <path d="M150 280c0-60 50-100 100-100S250 220 250 280" fill="#d63384" fill-opacity="0.1"/>
+  <text x="150" y="200" font-family="system-ui, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle">Your Photo</text>
+  <text x="150" y="220" font-family="system-ui, sans-serif" font-size="12" fill="#d1d5db" text-anchor="middle">300 × 300 px recommended</text>
+</svg>
